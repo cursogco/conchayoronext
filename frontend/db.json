@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "name": "Product 1",
+      "category": "Category 1",
+      "price": "1.1",
+      "rating": "1",
+      "id": "1"
+    },
+    {
+      "name": "Product 2",
+      "category": "Category 2",
+      "price": "2.2",
+      "rating": "2",
+      "id": "2"
+    },
+    {
+      "name": "Product 3",
+      "category": "Category 3",
+      "price": "3.3",
+      "rating": "3",
+      "id": "7e7547c9-3c2f-4375-b5c7-d7fb3cdea898"
+    }
+  ]
+}
